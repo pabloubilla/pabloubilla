@@ -1,6 +1,14 @@
-## Hi there 👋
+# Pablo Ubilla Pavez
 
 
+
+🎓 **Education**
+- **MSc Ecology and Data Science** - University College London, 2023-2024
+- **Master in Operations Management** - University of Chile, 2022-2023
+- **Industrial Engineering** - University of Chile, 2017-2022
+
+📧 **Contact**
+- Email: [pabloubilla@ug.uchile.cl](mailto:pabloubilla@ug.uchile.cl)
 
 <!--
 **pabloubilla/pabloubilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
