@@ -1,6 +1,8 @@
 # Pablo Ubilla Pavez
 
 
+I'm Pablo Ubilla Pavez, a student at University College London, interested in machine learning, data science, and probabilities, and their applications in different fields. Currently, I'm working on projects related to ecology and functional biodiversity.
+
 
 🎓 **Education**
 - **MSc Ecology and Data Science** - University College London, 2023-2024
