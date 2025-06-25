@@ -1,7 +1,8 @@
 # Pablo Ubilla Pavez
 
+Hi/Hola/Salut!
 
-I'm Pablo Ubilla Pavez, a graduate from University College London and University of Chile. I am interested in machine learning, data science, reinforcement learning, probabilities, and their applications in different fields (e.g. ecology, political science, human behaviour).
+I'm Pablo Ubilla Pavez, a graduate from University College London and University of Chile. I am interested in machine learning, statistics, optimization, and their application to different domains (e.g., ecology, sustainability, elections, human behaviour)
 
 
 🎓 **Education**
