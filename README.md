@@ -6,7 +6,7 @@ I'm Pablo Ubilla Pavez, a PhD student at INRIA Montpellier. I am interested in m
 
 
 🎓 **Education**
-- PhD Machine Learning - INRIA Montpellier, Current
+- **PhD Machine Learning** - INRIA Montpellier, Current
 - **MSc Ecology and Data Science** - University College London, 2023-2024
 - **Master in Operations Management** - University of Chile, 2022-2023
 - **Industrial Engineering** - University of Chile, 2017-2022
